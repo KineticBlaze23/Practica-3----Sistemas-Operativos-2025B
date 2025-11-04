@@ -15,3 +15,4 @@ El ejercicio demuestra cómo, después de ejecutar fork(), existen dos procesos 
 * Muestra su propio PID y el PPID, que corresponde al PID del proceso padre.
 * Espera un segundo (sleep(1)) y luego finaliza, mostrando “Fin del proceso [PID]”.
 # Capturas de ejecución
+![WhatsApp Image 2025-11-04 at 4 37 26 PM](https://github.com/user-attachments/assets/183ca0b1-6b6d-4313-8954-49f3c57a1b38)
