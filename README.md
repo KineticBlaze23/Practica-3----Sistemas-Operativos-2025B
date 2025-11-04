@@ -6,3 +6,21 @@ La práctica tuvo como objetivo experimentar la creación de procesos en lenguaj
 * Uso de Fork(): Creacion de procesos padre e hijo, identificacionde PIDs y relacion entre procesos.
 * Uso exec(): Ejecucion de programas externos desde un proceso hijo.
 * Uso system(): Ejecucion de comandos del sistema desde un proceso hijo.
+
+Practica3-Sistemas-Operativos-2025B/
+│
+├── 3.1_USO_FORK/
+│   ├── ejercicio3_1_1.c
+│   ├── ejercicio3_1_2.c
+│   ├── ejercicio3_1_3.c
+│   ├── ejercicio3_1_4.c
+│   ├── ejercicio3_1_5.c
+│   └── README.md
+│
+├── 3.2_USO_EXEC/
+│   ├── ejercicio3_2_1.c
+│   └── README.md
+│
+└── 3.3_USO_SYSTEM/
+    ├── ejercicio3_3_1.c
+    └── README.md
