@@ -1,5 +1,5 @@
 # Uso de fork - Ejercicio 2
-El programa permite observar la ejecucion concurrente de un proceso padre y un proceso hijo, donde se realiza tareas diferentes y la informacion final se comparte a un archivo .txt
+El programa permite observar la ejecucion concurrente de un proceso padre y un proceso hijo, donde se realiza tareas diferentes y la informacion final se comparte a un archivo .txt.
 # Funcionalidad
 ## Proceso hijo
 * Se ejecuta 10 veces
