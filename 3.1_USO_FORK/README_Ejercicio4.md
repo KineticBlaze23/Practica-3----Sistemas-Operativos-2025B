@@ -17,5 +17,8 @@ Cada hijo realiza una tarea distinta según su número:
 - Hijo 2: cuenta regresiva del 10 al 1.
 - Hijo 3: calcula los cuadrados del 1 al 10.
 
-## Ejecución:
+## Ejecución del programa:
+
+<img width="397" height="339" alt="Ejercicio4-fork png" src="https://github.com/user-attachments/assets/a7b02ba5-59ba-4455-9832-b03c8efe47f8" />
+
 
