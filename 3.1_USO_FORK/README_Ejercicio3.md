@@ -36,7 +36,7 @@ gcc -std=c11 -Wall fork_ejercicio3.c -o fork_ejercicio3
 ./fork_ejercicio3
 
 
----
-
+```
+ 
 ## Captura de Ejecucion
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/2926e7c1-8170-441b-b79c-0be667cb6db3" />
