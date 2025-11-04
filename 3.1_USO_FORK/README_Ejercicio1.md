@@ -14,4 +14,4 @@ El ejercicio demuestra cómo, después de ejecutar fork(), existen dos procesos 
 * Se crea como una copia del proceso padre, pero fork() devuelve 0, por lo que ejecuta el bloque if.
 * Muestra su propio PID y el PPID, que corresponde al PID del proceso padre.
 * Espera un segundo (sleep(1)) y luego finaliza, mostrando “Fin del proceso [PID]”.
-* Capturas de ejecución
+# Capturas de ejecución
