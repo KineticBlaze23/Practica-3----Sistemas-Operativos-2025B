@@ -7,20 +7,13 @@ La práctica tuvo como objetivo experimentar la creación de procesos en lenguaj
 * Uso exec(): Ejecucion de programas externos desde un proceso hijo.
 * Uso system(): Ejecucion de comandos del sistema desde un proceso hijo.
 
-Practica3-Sistemas-Operativos-2025B/
-│
-├── 3.1_USO_FORK/
-│   ├── ejercicio3_1_1.c
-│   ├── ejercicio3_1_2.c
-│   ├── ejercicio3_1_3.c
-│   ├── ejercicio3_1_4.c
-│   ├── ejercicio3_1_5.c
-│   └── README.md
-│
-├── 3.2_USO_EXEC/
-│   ├── ejercicio3_2_1.c
-│   └── README.md
-│
-└── 3.3_USO_SYSTEM/
-    ├── ejercicio3_3_1.c
-    └── README.md
+# Instrucciones para ejecutar.
+1. Desde la terminal accedemos a la carpeta de los ejercicios
+<img width="355" height="40" alt="image" src="https://github.com/user-attachments/assets/d4adb7cf-862b-4cae-88dc-7a6935ed2fe2" />
+
+2. Compilamos el codigo fuente
+..<img width="749" height="50" alt="image" src="https://github.com/user-attachments/assets/43a36b67-3524-4fdb-84b6-414b605c3b7d" />
+
+4. Ejecutamos el programa
+   
+<img width="442" height="136" alt="image" src="https://github.com/user-attachments/assets/23cb5fab-c136-4fec-a1fc-871ea8183f49" />
