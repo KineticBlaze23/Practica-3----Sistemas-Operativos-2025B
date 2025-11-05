@@ -6,21 +6,21 @@ El proceso padre utiliza `waitpid()` para esperar a que el hijo termine antes de
 
 ---
 
-## ⚙️ Funcionalidad
+## Funcionalidad
 
-### 🧒 Proceso hijo
+### Proceso hijo
 - Imprime su **PID** y el **PPID** (PID del proceso padre).  
 - Muestra un mensaje de finalización.  
 - Termina con un código de salida `0`.
 
-### 👨‍🦱 Proceso padre
+### Proceso padre
 - Imprime su **PID** y el **PID del hijo**.  
 - Emplea `waitpid()` (o `wait(0)`) para **esperar** al hijo antes de finalizar.  
 - Imprime el código de salida del hijo y su propio mensaje de finalización.  
 
 ---
 
-## 🧩 Compilación y ejecución
+## Compilación y ejecución
 
 ```bash
 # Ir a la carpeta donde está el archivo
